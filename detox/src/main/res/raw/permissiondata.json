@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Usage Access",
+    "icon": "res://ic_eye",
+    "description": "To get the Top Package running on Android",
+    "isPermissionGranted": false
+  }
+]
